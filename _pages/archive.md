@@ -1,6 +1,11 @@
 ---
 layout: page
-title: "Archive"
+title: "Resume"
+permalink: "/resume.html"
+
+---
+
+
 ---
 
 ## Blog Posts
