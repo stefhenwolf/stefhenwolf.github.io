@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    sedat:
       name:           Sedat
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
