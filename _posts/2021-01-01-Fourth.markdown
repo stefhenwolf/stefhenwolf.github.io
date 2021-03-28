@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hi This is Fourth Post!"
+author: sedat
+categories: [ neuro-101, fun-fact ]
+image: assets/images/4.jpg
+tags: featured
+---
+
+
+Hi, this is fourth post on my blog. 
