@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Neuro!"
+title:  "Welcome to Neuro Blog!"
 categories: [ Neuro 101 ]
 image: assets/images/demo1.jpg
 ---
