@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Hi This is 2nd Post!"
-categories: [ neuro-101 ]
+author: sedat
+categories: [ neuro-101, fun-fact ]
 image: assets/images/1.jpg
 ---
 
