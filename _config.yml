@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'setadpala@gmail.com'
-mailchimp-list: http://mailchimp.us8.list-manage.com/subscribe/post"
+mailchimp-list: "http://mailchimp.us8.list-manage.com/subscribe/post"
 include: ["_pages"]
 permalink: /:title/
 
