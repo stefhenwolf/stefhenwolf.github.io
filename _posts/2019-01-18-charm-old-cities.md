@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "This is first post of NeuroBlog"
 author: sedat
-categories: [ Jekyll, tutorial ]
+categories: [ neuro-101 ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
